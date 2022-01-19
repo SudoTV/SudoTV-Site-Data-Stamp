@@ -1,0 +1,18 @@
+identifier: ghost
+rarity: special
+methods:
+  - special
+icon:
+  zh-CN:
+    url: http://localhost:4000/stamp/$/ghost/en-US.png
+  en-US:
+    url: http://localhost:4000/stamp/$/ghost/en-US.png
+localization:
+  zh-CN:
+    label: "我是鬼魂"
+    description: "这个贴纸奖励给可爱的鬼魂"
+    how-to-get: "真可惜，只有可爱的鬼魂才能获得本贴纸"
+  en-US:
+    label: "I am a ghost"
+    description: "This stamp is awarded to cute ghosts"
+    how-to-get: "Oops, only cute ghosts can get this stamp"

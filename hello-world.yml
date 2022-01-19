@@ -1,0 +1,19 @@
+identifier: hello-world
+rarity: well-known
+methods:
+  - pull-request
+  - email
+icon:
+  zh-CN:
+    url: http://localhost:4000/stamp/$/hello-world/en-US.png
+  en-US:
+    url: http://localhost:4000/stamp/$/hello-world/en-US.png
+localization:
+  zh-CN:
+    label: "你好，世界！"
+    description: "这个贴纸奖励给热爱世界的人"
+    how-to-get: "热爱世界的人可以获得本帖纸"
+  en-US:
+    label: "Hello World!"
+    description: "This stamp is awarded to people who love the world"
+    how-to-get: "People who love the world can get this stamp"
