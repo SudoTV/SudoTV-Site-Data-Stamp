@@ -4,9 +4,9 @@ methods:
   - special
 icon:
   zh-CN:
-    url: http://localhost:4000/stamp/$/ghost/en-US.png
+    url: https://stamp.sudo.tv/stamp/$/ghost/en-US.png
   en-US:
-    url: http://localhost:4000/stamp/$/ghost/en-US.png
+    url: https://stamp.sudo.tv/stamp/$/ghost/en-US.png
 localization:
   zh-CN:
     label: "我是鬼魂"

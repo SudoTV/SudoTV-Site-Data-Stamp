@@ -5,9 +5,9 @@ methods:
   - email
 icon:
   zh-CN:
-    url: http://localhost:4000/stamp/$/hello-world/en-US.png
+    url: https://stamp.sudo.tv/stamp/$/hello-world/en-US.png
   en-US:
-    url: http://localhost:4000/stamp/$/hello-world/en-US.png
+    url: https://stamp.sudo.tv/stamp/$/hello-world/en-US.png
 localization:
   zh-CN:
     label: "你好，世界！"
