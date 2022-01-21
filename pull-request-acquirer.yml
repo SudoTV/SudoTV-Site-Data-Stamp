@@ -1,0 +1,18 @@
+identifier: pull-request-acquirer
+rarity: well-known
+methods:
+  - pull-request
+icon:
+  zh-CN:
+    url: https://stamp.sudo.tv/stamp/$/pull-request-acquirer/en-US.png
+  en-US:
+    url: https://stamp.sudo.tv/stamp/$/pull-request-acquirer/en-US.png
+localization:
+  zh-CN:
+    label: "拉取请求获得人"
+    description: "奖励给熟练使用拉取请求获得贴纸的人"
+    how-to-get: "发送拉取请求来获得这个贴纸"
+  en-US:
+    label: "Pull-request Acquirer"
+    description: "Awarded to people who use pull-requests to acquire stamps"
+    how-to-get: "Send a pull-request to acquire this stamp"
