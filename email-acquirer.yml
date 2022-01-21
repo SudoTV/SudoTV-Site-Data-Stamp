@@ -1,0 +1,18 @@
+identifier: email-acquirer
+rarity: well-known
+methods:
+  - email
+icon:
+  zh-CN:
+    url: https://stamp.sudo.tv/stamp/$/email-acquirer/zh-CN.png
+  en-US:
+    url: https://stamp.sudo.tv/stamp/$/email-acquirer/en-US.png
+localization:
+  zh-CN:
+    label: "邮件获得人"
+    description: "奖励给熟练使用邮件获得贴纸的人"
+    how-to-get: "发送邮件来获得这个贴纸"
+  en-US:
+    label: "Email Acquirer"
+    description: "Awarded to people who use emails to acquire stamps"
+    how-to-get: "Send a email to acquire this stamp"
