@@ -12,7 +12,7 @@ localization:
   zh-CN:
     label: "练习参与者"
     description: "奖励给完成并分享练习的人"
-    how-to-get: "完成任一剧集的练习，并分享练习"
+    how-to-get: "完成任一剧集的练习，并分享完成的练习"
   en-US:
     label: "Practice Participant"
     description: "Awarded to people who complete and share practice"
