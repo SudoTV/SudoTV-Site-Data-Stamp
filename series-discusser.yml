@@ -1,0 +1,19 @@
+identifier: series-discusser
+rarity: uncommon
+methods:
+  - pull-request
+  - email
+icon:
+  zh-CN:
+    url: https://stamp.sudo.tv/stamp/$/series-discusser/en-US.png
+  en-US:
+    url: https://stamp.sudo.tv/stamp/$/series-discusser/en-US.png
+localization:
+  zh-CN:
+    label: "剧集讨论者"
+    description: "奖励给于社区一起讨论剧集的人"
+    how-to-get: "在社区讨论区中发表或者参与关于剧集的讨论"
+  en-US:
+    label: "Series Discusser"
+    description: "Awarded to people who discuss series in the community"
+    how-to-get: "Post or participate in series discussion in the community"

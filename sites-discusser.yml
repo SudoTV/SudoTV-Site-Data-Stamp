@@ -1,0 +1,19 @@
+identifier: sites-discusser
+rarity: uncommon
+methods:
+  - pull-request
+  - email
+icon:
+  zh-CN:
+    url: https://stamp.sudo.tv/stamp/$/sites-discusser/en-US.png
+  en-US:
+    url: https://stamp.sudo.tv/stamp/$/sites-discusser/en-US.png
+localization:
+  zh-CN:
+    label: "网站讨论者"
+    description: "奖励给于社区一起讨论网站的人"
+    how-to-get: "在社区讨论区中发表或者参与关于网站的讨论"
+  en-US:
+    label: "Sites Discusser"
+    description: "Awarded to people who discuss sites in the community"
+    how-to-get: "Post or participate in sites discussion in the community"
