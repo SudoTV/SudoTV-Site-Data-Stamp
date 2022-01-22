@@ -1,0 +1,18 @@
+identifier: sites-contributer
+rarity: rare
+methods:
+  - auto
+icon:
+  zh-CN:
+    url: https://stamp.sudo.tv/stamp/$/sites-contributer/en-US.png
+  en-US:
+    url: https://stamp.sudo.tv/stamp/$/sites-contributer/en-US.png
+localization:
+  zh-CN:
+    label: "网站贡献者"
+    description: "奖励给为网站提供帮助的人"
+    how-to-get: "为网站做出贡献的人可以获得本帖纸"
+  en-US:
+    label: "Sites Contributer"
+    description: "Awarded to the person who helped the sites to be better"
+    how-to-get: "Who helps the sites to be better can get this stamp"
