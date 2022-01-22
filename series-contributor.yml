@@ -1,18 +1,18 @@
-identifier: series-contributer
+identifier: series-contributor
 rarity: rare
 methods:
   - auto
 icon:
   zh-CN:
-    url: https://stamp.sudo.tv/stamp/$/series-contributer/en-US.png
+    url: https://stamp.sudo.tv/stamp/$/series-contributor/en-US.png
   en-US:
-    url: https://stamp.sudo.tv/stamp/$/series-contributer/en-US.png
+    url: https://stamp.sudo.tv/stamp/$/series-contributor/en-US.png
 localization:
   zh-CN:
     label: "剧集贡献者"
     description: "奖励给为剧集提供帮助的人"
     how-to-get: "为剧集做出贡献的人可以获得本帖纸"
   en-US:
-    label: "Series Contributer"
+    label: "Series Contributor"
     description: "Awarded to the person who helped the series to be better"
     how-to-get: "Who helps the series to be better can get this stamp"

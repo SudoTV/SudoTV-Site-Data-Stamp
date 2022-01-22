@@ -1,18 +1,18 @@
-identifier: major-contributer
+identifier: major-contributor
 rarity: sparkling
 methods:
   - auto
 icon:
   zh-CN:
-    url: https://stamp.sudo.tv/stamp/$/major-contributer/en-US.png
+    url: https://stamp.sudo.tv/stamp/$/major-contributor/en-US.png
   en-US:
-    url: https://stamp.sudo.tv/stamp/$/major-contributer/en-US.png
+    url: https://stamp.sudo.tv/stamp/$/major-contributor/en-US.png
 localization:
   zh-CN:
     label: "主要贡献者"
     description: "奖励给为项目添砖加瓦的人"
     how-to-get: "为项目做出主要贡献的人可以获得本帖纸"
   en-US:
-    label: "Major Contributer"
+    label: "Major Contributor"
     description: "Awarded to the person who makes the major contributions to the project"
     how-to-get: "Who makes the major contributions to the project can get this stamp"
