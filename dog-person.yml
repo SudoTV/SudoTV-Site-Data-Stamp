@@ -1,0 +1,19 @@
+identifier: dog-person
+rarity: uncommon
+methods:
+  - pull-request
+  - email
+icon:
+  zh-CN:
+    url: https://stamp.sudo.tv/stamp/$/dog-person/en-US.png
+  en-US:
+    url: https://stamp.sudo.tv/stamp/$/dog-person/en-US.png
+localization:
+  zh-CN:
+    label: "狗狗好朋友"
+    description: "奖励给狗狗的好朋友"
+    how-to-get: "讲述你和狗狗的故事"
+  en-US:
+    label: "Dog Person"
+    description: "Awards to people who make friends with dogs"
+    how-to-get: "Tell your story with dogs"
