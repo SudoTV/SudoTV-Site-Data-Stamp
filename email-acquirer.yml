@@ -1,5 +1,6 @@
 identifier: email-acquirer
 rarity: well-known
+created-at: 2022-01-20
 methods:
   - email
 icon:

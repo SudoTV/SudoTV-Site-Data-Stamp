@@ -1,5 +1,6 @@
 identifier: series-discusser
 rarity: uncommon
+created-at: 2022-01-21
 methods:
   - pull-request
   - email
