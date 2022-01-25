@@ -1,6 +1,6 @@
 identifier: dog-person
 rarity: uncommon
-created-at: 2022-01-22
+release-date: 2022-01-22
 methods:
   - pull-request
   - email

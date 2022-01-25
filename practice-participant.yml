@@ -1,6 +1,6 @@
 identifier: practice-participant
 rarity: uncommon
-created-at: 2022-01-21
+release-date: 2022-01-21
 methods:
   - pull-request
   - email
