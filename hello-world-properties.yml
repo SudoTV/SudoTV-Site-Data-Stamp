@@ -1,0 +1,29 @@
+identifier: hello-world-properties
+rarity: well-known
+created-at: 2022-01-24
+methods:
+  - pull-request
+  - email
+icon:
+  zh-CN:
+    url: https://stamp.sudo.tv/stamp/$/hello-world-properties/en-US.png
+  en-US:
+    url: https://stamp.sudo.tv/stamp/$/hello-world-properties/en-US.png
+properties:
+  power-level:
+    localization:
+      zh-CN:
+        label: "力量等级"
+        description: "贴纸的力量等级"
+      en-US:
+        label: "Power Level"
+        description: "The power level of the stamp"
+localization:
+  zh-CN:
+    label: "你好，世界！带参数！"
+    description: "这个贴纸奖励给热爱世界的人"
+    how-to-get: "热爱世界的人可以获得本帖纸"
+  en-US:
+    label: "Hello World! With Properties!"
+    description: "This stamp is awarded to people who love the world"
+    how-to-get: "People who love the world can get this stamp"

@@ -1,0 +1,19 @@
+identifier: stamp-designer
+rarity: rare
+created-at: 2022-01-24
+methods:
+  - auto
+icon:
+  zh-CN:
+    url: https://stamp.sudo.tv/stamp/$/stamp-designer/en-US.png
+  en-US:
+    url: https://stamp.sudo.tv/stamp/$/stamp-designer/en-US.png
+localization:
+  zh-CN:
+    label: "贴纸设计师"
+    description: "奖励给为社区设计过贴纸的人"
+    how-to-get: "在创建的贴纸被合并使用时，自动获得"
+  en-US:
+    label: "Stamp Designer"
+    description: "Awarded to people who design stamps for the community"
+    how-to-get: "This stamp is automatically granted when stamp designed is merged into the project"
