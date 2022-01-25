@@ -1,0 +1,19 @@
+identifier: viewer-batch-1
+rarity: rare
+created-at: 2022-01-24
+methods:
+  - auto
+icon:
+  zh-CN:
+    url: https://stamp.sudo.tv/stamp/$/viewer-batch-1/en-US.png
+  en-US:
+    url: https://stamp.sudo.tv/stamp/$/viewer-batch-1/en-US.png
+localization:
+  zh-CN:
+    label: "第一批观众"
+    description: "奖励给 SudoTV 项目第一阶段的观众"
+    how-to-get: "在 SudoTV 项目第一阶段拥有画像的时候自动获得"
+  en-US:
+    label: "Viewer Batch 1"
+    description: "Awarded to SudoTV project viewers during the first phase of the project"
+    how-to-get: "This stamp is automatically granted to profile exist during the first phase of the SudoTV project"

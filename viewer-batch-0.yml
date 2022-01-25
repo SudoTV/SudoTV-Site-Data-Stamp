@@ -1,0 +1,19 @@
+identifier: viewer-batch-0
+rarity: special
+created-at: 2022-01-24
+methods:
+  - special
+icon:
+  zh-CN:
+    url: https://stamp.sudo.tv/stamp/$/viewer-batch-0/en-US.png
+  en-US:
+    url: https://stamp.sudo.tv/stamp/$/viewer-batch-0/en-US.png
+localization:
+  zh-CN:
+    label: "第零批观众"
+    description: "奖励给 SudoTV 项目开始之前的观众"
+    how-to-get: "此贴纸只能获得在 SudoTV 项目开始之前"
+  en-US:
+    label: "Viewer Batch 0"
+    description: "Awarded to SudoTV project viewers before the project started"
+    how-to-get: "This stamp can only be obtained before the project started"
