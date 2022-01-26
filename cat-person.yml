@@ -1,6 +1,7 @@
 identifier: cat-person
 rarity: uncommon
 release-date: 2022-01-22
+copyright: SudoTV
 methods:
   - pull-request
   - email

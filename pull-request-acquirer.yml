@@ -1,6 +1,7 @@
 identifier: pull-request-acquirer
 rarity: well-known
 release-date: 2022-01-20
+copyright: SudoTV
 methods:
   - pull-request
 icon:

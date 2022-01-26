@@ -1,6 +1,7 @@
 identifier: practice-participant
 rarity: uncommon
 release-date: 2022-01-21
+copyright: SudoTV
 methods:
   - pull-request
   - email

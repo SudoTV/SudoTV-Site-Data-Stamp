@@ -1,6 +1,7 @@
 identifier: hello-world-properties
 rarity: well-known
 release-date: 2022-01-24
+copyright: SudoTV
 methods:
   - pull-request
   - email

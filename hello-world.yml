@@ -1,6 +1,7 @@
 identifier: hello-world
 rarity: well-known
 release-date: 2022-01-18
+copyright: SudoTV
 methods:
   - pull-request
   - email
