@@ -15,6 +15,6 @@ localization:
     description: "奖励给自己创建画像资料页面的用户"
     how-to-get: "通过提交拉取请求创建画像资料页面"
   en-US:
-    label: "I created my own profile"
+    label: "I Create By Own Profile"
     description: "Awarded to users who create their own profile page"
     how-to-get: "Create a profile page by submitting a pull request"
