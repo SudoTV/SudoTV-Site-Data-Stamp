@@ -1,0 +1,20 @@
+identifier: i-create-my-own-profile
+rarity: uncommon
+release-date: 2022-01-26
+copyright: SudoTV
+methods:
+  - pull-request
+icon:
+  zh-CN:
+    url: https://stamp.sudo.tv/stamp/$/i-create-my-own-profile/en-US.png
+  en-US:
+    url: https://stamp.sudo.tv/stamp/$/i-create-my-own-profile/en-US.png
+localization:
+  zh-CN:
+    label: "我创建了我自己的画像"
+    description: "奖励给自己创建画像资料页面的用户"
+    how-to-get: "通过提交拉取请求创建画像资料页面"
+  en-US:
+    label: "I created my own profile"
+    description: "Awarded to users who create their own profile page"
+    how-to-get: "Create a profile page by submitting a pull request"
