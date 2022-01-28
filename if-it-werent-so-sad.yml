@@ -6,8 +6,12 @@ copyright:
   materials:
     - material: character
       localization:
-        en-US: Portal - Valve
-        zh-CN: 传送门 - Valve
+        en-US:
+          material: characeter
+          credit: Portal - Valve
+        zh-CN:
+          material: 角色形象
+          credit: 传送门 - Valve
 methods:
   - pull-request
   - email
