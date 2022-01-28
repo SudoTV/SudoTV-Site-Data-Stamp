@@ -1,0 +1,21 @@
+identifier: hedgehog-cup-participat
+rarity: worthy
+release-date: 2022-01-28
+copyright:
+  icon-design: SudoTV
+methods:
+  - special
+icon:
+  zh-CN:
+    url: https://stamp.sudo.tv/stamp/$/hedgehog-cup-participat/en-US.png
+  en-US:
+    url: https://stamp.sudo.tv/stamp/$/hedgehog-cup-participat/en-US.png
+localization:
+  zh-CN:
+    label: "刺猬杯选手"
+    description: "奖励给参与刺猬杯的选手"
+    how-to-get: "参与刺猬杯"
+  en-US:
+    label: "Hedgehog Cup Participant"
+    description: "Awarded to the participants of the Hedgehog Cup"
+    how-to-get: "Participate in the Hedgehog Cup"
