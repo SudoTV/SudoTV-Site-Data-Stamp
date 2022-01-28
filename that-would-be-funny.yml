@@ -1,0 +1,27 @@
+identifier: that-would-be-funny
+rarity: uncommon
+release-date: 2022-01-26
+copyright:
+  icon-design: SudoTV
+  materials:
+    - material: character
+      localization:
+        en-US: Portal - Valve
+        zh-CN: 传送门 - Valve
+methods:
+  - pull-request
+  - email
+icon:
+  zh-CN:
+    url: https://stamp.sudo.tv/stamp/$/that-would-be-funny/en-US.png
+  en-US:
+    url: https://stamp.sudo.tv/stamp/$/that-would-be-funny/en-US.png
+localization:
+  zh-CN:
+    label: "That would be funny..."
+    description: "奖励给喜欢传送门游戏系列的玩家"
+    how-to-get: "通过邮件或者拉取请求获得"
+  en-US:
+    label: "That would be funny..."
+    description: "Awarded to players who like Portal Series"
+    how-to-get: "Get by email or pull request"
