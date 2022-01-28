@@ -7,9 +7,9 @@ methods:
   - special
 icon:
   zh-CN:
-    url: https://stamp.sudo.tv/stamp/$/_blank/blank.png
+    url: https://stamp.sudo.tv/stamp/$/blank/blank.png
   en-US:
-    url: https://stamp.sudo.tv/stamp/$/_blank/blank.png
+    url: https://stamp.sudo.tv/stamp/$/blank/blank.png
 localization:
   zh-CN:
     label: "空白贴纸"
