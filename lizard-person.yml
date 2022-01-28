@@ -1,0 +1,22 @@
+identifier: lizard-person
+rarity: uncommon
+release-date: 2022-01-28
+copyright:
+  icon-design: SudoTV
+methods:
+  - pull-request
+  - email
+icon:
+  zh-CN:
+    url: https://stamp.sudo.tv/stamp/$/lizard-person/en-US.png
+  en-US:
+    url: https://stamp.sudo.tv/stamp/$/lizard-person/en-US.png
+localization:
+  zh-CN:
+    label: "爬行类好朋友"
+    description: "奖励给爬行类的好朋友"
+    how-to-get: "讲述你和爬行类的故事"
+  en-US:
+    label: "Lizard Person"
+    description: "Awards to people who make friends with lizards"
+    how-to-get: "Tell your story with lizards"
