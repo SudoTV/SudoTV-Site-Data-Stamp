@@ -1,0 +1,22 @@
+identifier: snake-person
+rarity: uncommon
+release-date: 2022-01-27
+copyright:
+  icon-design: SudoTV
+methods:
+  - pull-request
+  - email
+icon:
+  zh-CN:
+    url: https://stamp.sudo.tv/stamp/$/snake-person/en-US.png
+  en-US:
+    url: https://stamp.sudo.tv/stamp/$/snake-person/en-US.png
+localization:
+  zh-CN:
+    label: "蛇蛇好朋友"
+    description: "奖励给蛇蛇的好朋友"
+    how-to-get: "讲述你和蛇蛇的故事"
+  en-US:
+    label: "Snake Person"
+    description: "Awards to people who make friends with snakes"
+    how-to-get: "Tell your story with snakes"
