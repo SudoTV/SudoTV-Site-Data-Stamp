@@ -1,7 +1,8 @@
 identifier: i-create-my-own-profile
 rarity: uncommon
 release-date: 2022-01-26
-copyright: SudoTV
+copyright:
+  icon-design: SudoTV
 methods:
   - pull-request
 icon:

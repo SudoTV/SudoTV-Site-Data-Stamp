@@ -1,7 +1,8 @@
 identifier: stamp-designer
 rarity: rare
 release-date: 2022-01-24
-copyright: SudoTV
+copyright:
+  icon-design: SudoTV
 methods:
   - auto
 icon:

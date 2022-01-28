@@ -2,7 +2,8 @@ identifier: ghost
 rarity: special
 release-date: 2022-01-10
 suspend-date: 2022-01-10
-copyright: SudoTV
+copyright:
+  icon-design: SudoTV
 methods:
   - special
 icon:

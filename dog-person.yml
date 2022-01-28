@@ -1,7 +1,8 @@
 identifier: dog-person
 rarity: uncommon
 release-date: 2022-01-22
-copyright: SudoTV
+copyright:
+  icon-design: SudoTV
 methods:
   - pull-request
   - email

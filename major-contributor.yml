@@ -1,7 +1,8 @@
 identifier: major-contributor
 rarity: sparkling
 release-date: 2022-01-21
-copyright: SudoTV
+copyright:
+  icon-design: SudoTV
 methods:
   - auto
 icon:
