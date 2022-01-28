@@ -1,0 +1,21 @@
+identifier: blank
+rarity: special
+release-date: 2022-01-27
+copyright:
+  icon-design: SudoTV
+methods:
+  - special
+icon:
+  zh-CN:
+    url: https://stamp.sudo.tv/stamp/$/_blank/blank.png
+  en-US:
+    url: https://stamp.sudo.tv/stamp/$/_blank/blank.png
+localization:
+  zh-CN:
+    label: "空白贴纸"
+    description: "完全空白的贴纸"
+    how-to-get: "哈，这就不知道了"
+  en-US:
+    label: "Blank Stamp"
+    description: "Completely blank stamp"
+    how-to-get: "Ha, I don't know then"
