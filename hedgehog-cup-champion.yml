@@ -1,0 +1,31 @@
+identifier: hedgehog-cup-champion
+rarity: dazzle
+release-date: 2022-01-28
+copyright:
+  icon-design: SudoTV
+methods:
+  - special
+icon:
+  zh-CN:
+    url: https://stamp.sudo.tv/stamp/$/hedgehog-cup-champion/en-US.png
+  en-US:
+    url: https://stamp.sudo.tv/stamp/$/hedgehog-cup-champion/en-US.png
+localization:
+  zh-CN:
+    label: "刺猬杯冠军"
+    description: |-
+      奖励给刺猬杯的社区投票前三名
+      第一名：待定
+      第二名：待定
+      第三名：待定
+    how-to-get: |-
+      参与刺猬杯并在社区投票中取得前三名
+  en-US:
+    label: "Hedgehog Cup Champion"
+    description: |-
+      Awarded to the top three participants of the Hedgehog Cup
+      First place: TBD
+      Second place: TBD
+      Third place: TBD
+    how-to-get: |-
+      Participate in the Hedgehog Cup and get the top three in the community voting
