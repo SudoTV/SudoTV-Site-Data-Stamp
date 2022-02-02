@@ -1,0 +1,26 @@
+identifier: horse-person
+rarity: uncommon
+release-date: 2022-02-01
+copyright:
+  icon-design: SudoTV
+methods:
+  - pull-request
+  - email
+icon:
+  zh-CN:
+    url: https://stamp.sudo.tv/stamp/$/horse-person/en-US.png
+  en-US:
+    url: https://stamp.sudo.tv/stamp/$/horse-person/en-US.png
+localization:
+  zh-CN:
+    label: "马马好朋友"
+    description: |-
+      奖励给马马的好朋友
+    how-to-get: |-
+      讲述你和马马的故事
+  en-US:
+    label: "Horse Person"
+    description: |-
+      Awards to people who make friends with horses
+    how-to-get: |-
+      Tell your story with horses
