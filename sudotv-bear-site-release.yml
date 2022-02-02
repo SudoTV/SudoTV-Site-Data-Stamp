@@ -1,0 +1,25 @@
+identifier: sudotv-bear-site-release
+rarity: rare
+release-date: 2022-02-01
+copyright:
+  icon-design: SudoTV
+methods:
+  - special
+icon:
+  zh-CN:
+    url: https://stamp.sudo.tv/stamp/$/sudotv-bear-site-release/en-US.png
+  en-US:
+    url: https://stamp.sudo.tv/stamp/$/sudotv-bear-site-release/en-US.png
+localization:
+  zh-CN:
+    label: "发布 SudoTV 熊吉站"
+    description: |-
+      参与发布 SudoTV 熊吉站
+    how-to-get: |-
+      参与发布 SudoTV 熊吉站自动获得
+  en-US:
+    label: "Release SudoTV Bear Site"
+    description: |-
+      Participate in the release of SudoTV Bear Site
+    how-to-get: |-
+      Automatically get if participate in the release of SudoTV Bear Site
