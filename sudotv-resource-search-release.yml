@@ -1,0 +1,25 @@
+identifier: sudotv-resource-search-release
+rarity: rare
+release-date: 2022-02-02
+copyright:
+  icon-design: SudoTV
+methods:
+  - special
+icon:
+  zh-CN:
+    url: https://stamp.sudo.tv/stamp/$/sudotv-resource-search-release/en-US.png
+  en-US:
+    url: https://stamp.sudo.tv/stamp/$/sudotv-resource-search-release/en-US.png
+localization:
+  zh-CN:
+    label: "发布 SudoTV 资源站搜索功能"
+    description: |-
+      参与发布 SudoTV 资源站搜索功能
+    how-to-get: |-
+      参与发布 SudoTV 资源站搜索功能自动获得
+  en-US:
+    label: "Release SudoTV Resource Site Search Feature"
+    description: |-
+      Participate in the release of SudoTV Resource Site Search Feature
+    how-to-get: |-
+      Automatically get if participate in the release of SudoTV Resource Site Search Feature

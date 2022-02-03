@@ -1,0 +1,25 @@
+identifier: sudotv-helped-me-get-a-job
+rarity: sparkling
+release-date: 2022-02-02
+copyright:
+  icon-design: SudoTV
+methods:
+  - special
+icon:
+  zh-CN:
+    url: https://stamp.sudo.tv/stamp/$/sudotv-helped-me-get-a-job/en-US.png
+  en-US:
+    url: https://stamp.sudo.tv/stamp/$/sudotv-helped-me-get-a-job/en-US.png
+localization:
+  zh-CN:
+    label: "SudoTV 帮助我找到了工作"
+    description: |-
+      SudoTV 项目不是为了求职，但 SudoTV 确实帮助我找到了工作
+    how-to-get: |-
+      分享您和 SudoTV 的故事，自动获得本帖纸
+  en-US:
+    label: "SudoTV Helped Me Get a Job"
+    description: |-
+      The SudoTV project is not for job hunting, but SudoTV do helped me find a job
+    how-to-get: |-
+      Share your story with SudoTV and automatically get this stamp
