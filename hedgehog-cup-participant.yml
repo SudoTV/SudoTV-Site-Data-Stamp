@@ -1,4 +1,4 @@
-identifier: hedgehog-cup-participat
+identifier: hedgehog-cup-participant
 rarity: worthy
 release-date: 2022-01-28
 copyright:
@@ -7,9 +7,9 @@ methods:
   - special
 icon:
   zh-CN:
-    url: https://stamp.sudo.tv/stamp/$/hedgehog-cup-participat/en-US.png
+    url: https://stamp.sudo.tv/stamp/$/hedgehog-cup-participant/en-US.png
   en-US:
-    url: https://stamp.sudo.tv/stamp/$/hedgehog-cup-participat/en-US.png
+    url: https://stamp.sudo.tv/stamp/$/hedgehog-cup-participant/en-US.png
 localization:
   zh-CN:
     label: "刺猬杯选手"
