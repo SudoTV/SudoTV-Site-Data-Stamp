@@ -1,0 +1,31 @@
+identifier: pyramid-cup-champion
+rarity: dazzle
+release-date: 2022-02-02
+copyright:
+  icon-design: SudoTV
+methods:
+  - special
+icon:
+  zh-CN:
+    url: https://stamp.sudo.tv/stamp/$/pyramid-cup-champion/en-US.png
+  en-US:
+    url: https://stamp.sudo.tv/stamp/$/pyramid-cup-champion/en-US.png
+localization:
+  zh-CN:
+    label: "金字塔杯冠军"
+    description: |-
+      奖励给金字塔杯的社区投票前三名
+      第一名：待定
+      第二名：待定
+      第三名：待定
+    how-to-get: |-
+      参与金字塔杯并在社区投票中取得前三名
+  en-US:
+    label: "Pyramid Cup Champion"
+    description: |-
+      Awarded to the top three participants of the Pyramid Cup
+      First place: TBD
+      Second place: TBD
+      Third place: TBD
+    how-to-get: |-
+      Participate in the Pyramid Cup and get the top three in the community voting

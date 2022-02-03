@@ -1,0 +1,21 @@
+identifier: pyramid-cup-participant
+rarity: worthy
+release-date: 2022-02-02
+copyright:
+  icon-design: SudoTV
+methods:
+  - special
+icon:
+  zh-CN:
+    url: https://stamp.sudo.tv/stamp/$/pyramid-cup-participant/en-US.png
+  en-US:
+    url: https://stamp.sudo.tv/stamp/$/pyramid-cup-participant/en-US.png
+localization:
+  zh-CN:
+    label: "金字塔杯选手"
+    description: "奖励给参与金字塔杯的选手"
+    how-to-get: "参与金字塔杯"
+  en-US:
+    label: "Pyramid Cup Participant"
+    description: "Awarded to the participants of the Pyramid Cup"
+    how-to-get: "Participate in the Pyramid Cup"
