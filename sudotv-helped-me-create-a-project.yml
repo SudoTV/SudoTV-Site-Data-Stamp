@@ -1,0 +1,25 @@
+identifier: sudotv-helped-me-create-a-project
+rarity: sparkling
+release-date: 2022-02-03
+copyright:
+  icon-design: SudoTV
+methods:
+  - special
+icon:
+  zh-CN:
+    url: https://stamp.sudo.tv/stamp/$/sudotv-helped-me-create-a-project/en-US.png
+  en-US:
+    url: https://stamp.sudo.tv/stamp/$/sudotv-helped-me-create-a-project/en-US.png
+localization:
+  zh-CN:
+    label: "SudoTV 帮助我开发了一个项目"
+    description: |-
+      SudoTV 帮助我开发了一个项目
+    how-to-get: |-
+      分享您和 SudoTV 的故事，自动获得本帖纸
+  en-US:
+    label: "SudoTV Helped Me Create a Project"
+    description: |-
+      SudoTV helped me create a project
+    how-to-get: |-
+      Share your story with SudoTV and automatically get this stamp

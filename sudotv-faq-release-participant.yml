@@ -1,0 +1,25 @@
+identifier: sudotv-faq-release-participant
+rarity: rare
+release-date: 2022-02-03
+copyright:
+  icon-design: SudoTV
+methods:
+  - special
+icon:
+  zh-CN:
+    url: https://stamp.sudo.tv/stamp/$/sudotv-faq-release-participant/en-US.png
+  en-US:
+    url: https://stamp.sudo.tv/stamp/$/sudotv-faq-release-participant/en-US.png
+localization:
+  zh-CN:
+    label: "发布 SudoTV 常见问题"
+    description: |-
+      参与发布 SudoTV 常见问题
+    how-to-get: |-
+      参与发布 SudoTV 常见问题自动获得
+  en-US:
+    label: "Release SudoTV Fequently Asked Questions"
+    description: |-
+      Participate in the release of SudoTV Fequently Asked Questions
+    how-to-get: |-
+      Automatically get if participate in the release of SudoTV Fequently Asked Questions
