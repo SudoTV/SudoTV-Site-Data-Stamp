@@ -1,0 +1,35 @@
+identifier: premiere-clone-bilibili
+rarity: worthy
+release-date: 2022-02-03
+copyright:
+  icon-design: SudoTV
+  materials:
+    - material: logo-image
+      localization:
+        en-US:
+          material: Logo Image
+          credit: BiliBili
+        zh-CN:
+          material: 商标图像
+          credit: BiliBili
+methods:
+  - email
+  - pull-request
+icon:
+  zh-CN:
+    url: https://stamp.sudo.tv/stamp/$/premiere-clone-bilibili/en-US.png
+  en-US:
+    url: https://stamp.sudo.tv/stamp/$/premiere-clone-bilibili/en-US.png
+localization:
+  zh-CN:
+    label: "山寨 BiliBili 首映"
+    description: |-
+      在首映期间观看 `山寨 BiliBili` 剧集
+    how-to-get: |-
+      在首映期间观看 `山寨 BiliBili` 剧集，发送邮件或者拉取请求获得
+  en-US:
+    label: "Premiere Clone BiliBili"
+    description: |-
+      Watch `Premiere Clone BiliBili` series during the premiere
+    how-to-get: |-
+      Watch `Premiere Clone BiliBili` series during the premiere, send an email or pull request to get

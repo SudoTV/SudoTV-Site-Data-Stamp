@@ -1,0 +1,35 @@
+identifier: premiere-what-to-play
+rarity: worthy
+release-date: 2022-02-03
+copyright:
+  icon-design: SudoTV
+  materials:
+    - material: logo-image
+      localization:
+        en-US:
+          material: Logo Image
+          credit: Steam
+        zh-CN:
+          material: 商标图像
+          credit: Steam
+methods:
+  - email
+  - pull-request
+icon:
+  zh-CN:
+    url: https://stamp.sudo.tv/stamp/$/premiere-what-to-play/en-US.png
+  en-US:
+    url: https://stamp.sudo.tv/stamp/$/premiere-what-to-play/en-US.png
+localization:
+  zh-CN:
+    label: "玩什么助手 首映"
+    description: |-
+      在首映期间观看 `玩什么助手` 剧集
+    how-to-get: |-
+      在首映期间观看 `玩什么助手` 剧集，发送邮件或者拉取请求获得
+  en-US:
+    label: "Premiere What To Play"
+    description: |-
+      Watch `Premiere What To Play` series during the premiere
+    how-to-get: |-
+      Watch `Premiere What To Play` series during the premiere, send an email or pull request to get

@@ -1,0 +1,26 @@
+identifier: premiere-video-cover-generator
+rarity: worthy
+release-date: 2022-02-03
+copyright:
+  icon-design: SudoTV
+methods:
+  - email
+  - pull-request
+icon:
+  zh-CN:
+    url: https://stamp.sudo.tv/stamp/$/premiere-video-cover-generator/en-US.png
+  en-US:
+    url: https://stamp.sudo.tv/stamp/$/premiere-video-cover-generator/en-US.png
+localization:
+  zh-CN:
+    label: "视频封面生成器 首映"
+    description: |-
+      在首映期间观看 `视频封面生成器` 剧集
+    how-to-get: |-
+      在首映期间观看 `视频封面生成器` 剧集，发送邮件或者拉取请求获得
+  en-US:
+    label: "Premiere Video Cover Generator"
+    description: |-
+      Watch `Premiere Video Cover Generator` series during the premiere
+    how-to-get: |-
+      Watch `Premiere Video Cover Generator` series during the premiere, send an email or pull request to get
