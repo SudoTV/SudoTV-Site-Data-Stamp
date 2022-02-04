@@ -1,0 +1,25 @@
+identifier: 2020-year-of-mouse
+rarity: worthy
+release-date: 2020-02-01
+copyright:
+  icon-design: SudoTV
+methods:
+  - special
+icon:
+  zh-CN:
+    url: https://stamp.sudo.tv/stamp/$/2020-year-of-mouse/en-US.png
+  en-US:
+    url: https://stamp.sudo.tv/stamp/$/2020-year-of-mouse/en-US.png
+localization:
+  zh-CN:
+    label: "2020 鼠年大吉"
+    description: |-
+      奖励给 2020 农历新年的活跃观众
+    how-to-get: |-
+      在 2020 农历新年期间参与活动获得
+  en-US:
+    label: "2020 Year of Mouse"
+    description: |-
+      Awarded to the active viewer of 2020 lunar new year
+    how-to-get: |-
+      Get if participate in the activity during the 2020 lunar new year
