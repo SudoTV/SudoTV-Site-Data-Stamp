@@ -1,0 +1,26 @@
+identifier: ghost-of-tsushima
+rarity: worthy
+release-date: 2022-02-03
+copyright:
+  icon-design: SudoTV
+methods:
+  - email
+  - pull-request
+icon:
+  zh-CN:
+    url: https://stamp.sudo.tv/stamp/$/ghost-of-tsushima/en-US.png
+  en-US:
+    url: https://stamp.sudo.tv/stamp/$/ghost-of-tsushima/en-US.png
+localization:
+  zh-CN:
+    label: "对马岛之魂"
+    description: |-
+      奖励给喜欢对马岛之魂游戏系列的玩家
+    how-to-get: |-
+      通过邮件或者拉取请求获得
+  en-US:
+    label: "Ghost of Tsushima"
+    description: |-
+      Awarded to players who like Ghost of Tsushima Series
+    how-to-get: |-
+      Get by email or pull request

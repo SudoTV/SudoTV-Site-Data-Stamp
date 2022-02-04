@@ -1,0 +1,27 @@
+identifier: i-told-my-friends
+rarity: worthy
+release-date: 2022-02-03
+copyright:
+  icon-design: SudoTV
+methods:
+  - regular
+  - email
+  - pull-request
+icon:
+  zh-CN:
+    url: https://stamp.sudo.tv/stamp/$/i-told-my-friends/en-US.png
+  en-US:
+    url: https://stamp.sudo.tv/stamp/$/i-told-my-friends/en-US.png
+localization:
+  zh-CN:
+    label: "我跟朋友说了"
+    description: |-
+      奖励给和朋友分享 SudoTV 计划的观众
+    how-to-get: |-
+      感谢您愿意和朋友分享 SudoTV 计划，您可以通过各种方式获得本贴纸。
+  en-US:
+    label: "I told my friends"
+    description: |-
+      Reward to viewers show share the SudoTV project with friends
+    how-to-get: |-
+      Thank you for sharing the SudoTV project with friends, you can get this stamp by various ways.
