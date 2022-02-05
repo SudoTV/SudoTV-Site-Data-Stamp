@@ -1,0 +1,35 @@
+identifier: i-love-sublime-text
+rarity: uncommon
+release-date: 2022-02-04
+copyright:
+  icon-design: SudoTV
+  materials:
+    - material: logo-image
+      localization:
+        en-US:
+          material: Logo Image
+          credit: Sublime Text
+        zh-CN:
+          material: 商标图像
+          credit: Sublime Text
+methods:
+  - email
+  - pull-request
+icon:
+  zh-CN:
+    url: https://stamp.sudo.tv/stamp/$/i-love-sublime-text/en-US.png
+  en-US:
+    url: https://stamp.sudo.tv/stamp/$/i-love-sublime-text/en-US.png
+localization:
+  zh-CN:
+    label: "I Love Sublime Text"
+    description: |-
+      Sublime Text 是一款轻量级，支持丰富插件系统的文本编辑器
+    how-to-get: |-
+      发送邮件或者拉取请求以获得
+  en-US:
+    label: "I Love Sublime Text"
+    description: |-
+      Sublime Text is a lightweight, extension friendly text editor
+    how-to-get: |-
+      Send email or pull request to get
