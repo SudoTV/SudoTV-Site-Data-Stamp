@@ -1,0 +1,35 @@
+identifier: i-love-jetbrains
+rarity: uncommon
+release-date: 2022-02-04
+copyright:
+  icon-design: SudoTV
+  materials:
+    - material: logo-image
+      localization:
+        en-US:
+          material: Logo Image
+          credit: JetBrains
+        zh-CN:
+          material: 商标图像
+          credit: JetBrains
+methods:
+  - email
+  - pull-request
+icon:
+  zh-CN:
+    url: https://stamp.sudo.tv/stamp/$/i-love-jetbrains/en-US.png
+  en-US:
+    url: https://stamp.sudo.tv/stamp/$/i-love-jetbrains/en-US.png
+localization:
+  zh-CN:
+    label: "I Love JetBrains"
+    description: |-
+      JetBrains 开发了多款针对不同软件开发领域的 IDE
+    how-to-get: |-
+      发送邮件或者拉取请求以获得
+  en-US:
+    label: "I Love JetBrains"
+    description: |-
+      JetBrains developed IDEs for different software development fields
+    how-to-get: |-
+      Send email or pull request to get
