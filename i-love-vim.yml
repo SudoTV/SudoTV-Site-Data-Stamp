@@ -1,0 +1,26 @@
+identifier: i-love-vim
+rarity: uncommon
+release-date: 2022-02-04
+copyright:
+  icon-design: SudoTV
+methods:
+  - email
+  - pull-request
+icon:
+  zh-CN:
+    url: https://stamp.sudo.tv/stamp/$/i-love-vim/en-US.png
+  en-US:
+    url: https://stamp.sudo.tv/stamp/$/i-love-vim/en-US.png
+localization:
+  zh-CN:
+    label: "I Love Vim"
+    description: |-
+      Vim 是一款基于控制台的文本编辑器
+    how-to-get: |-
+      发送邮件或者拉取请求以获得
+  en-US:
+    label: "I Love Vim"
+    description: |-
+      Vim is a text editor based on the console
+    how-to-get: |-
+      Send email or pull request to get
