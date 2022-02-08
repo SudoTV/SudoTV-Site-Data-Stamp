@@ -1,0 +1,25 @@
+identifier: sudotv-stamp-scripts-release
+rarity: rare
+release-date: 2022-02-07
+copyright:
+  icon-design: SudoTV
+methods:
+  - special
+icon:
+  zh-CN:
+    url: https://stamp.sudo.tv/stamp/$/sudotv-stamp-scripts-release/en-US.png
+  en-US:
+    url: https://stamp.sudo.tv/stamp/$/sudotv-stamp-scripts-release/en-US.png
+localization:
+  zh-CN:
+    label: "发布 SudoTV 贴纸脚本"
+    description: |-
+      参与发布 SudoTV 贴纸脚本
+    how-to-get: |-
+      参与发布 SudoTV 贴纸脚本自动获得
+  en-US:
+    label: "Release SudoTV Stamp Scripts"
+    description: |-
+      Participate in the release of SudoTV Stamp Scripts
+    how-to-get: |-
+      Automatically get if participate in the release of SudoTV Stamp Scripts
