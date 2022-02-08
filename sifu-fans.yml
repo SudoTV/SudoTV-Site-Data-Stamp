@@ -1,0 +1,35 @@
+identifier: sifu-fans
+rarity: uncommon
+release-date: 2022-02-07
+copyright:
+  icon-design: SudoTV
+  materials:
+    - material: logo-image
+      localization:
+        en-US:
+          material: Logo Image
+          credit: Sloclap
+        zh-CN:
+          material: 商标图像
+          credit: Sloclap
+methods:
+  - email
+  - pull-request
+icon:
+  zh-CN:
+    url: https://stamp.sudo.tv/stamp/$/sifu-fans/en-US.png
+  en-US:
+    url: https://stamp.sudo.tv/stamp/$/sifu-fans/en-US.png
+localization:
+  zh-CN:
+    label: "师父"
+    description: |-
+      奖励给喜欢游戏**师父**的人
+    how-to-get: |-
+      通过邮件或者拉取请求获得
+  en-US:
+    label: "Sifu"
+    description: |-
+      Awarded to those who like **Sifu** the video game
+    how-to-get: |-
+      Get by email or pull request
