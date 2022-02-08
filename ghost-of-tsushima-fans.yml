@@ -1,4 +1,4 @@
-identifier: ghost-of-tsushima
+identifier: ghost-of-tsushima-fans
 rarity: uncommon
 release-date: 2022-02-03
 copyright:
@@ -8,9 +8,9 @@ methods:
   - pull-request
 icon:
   zh-CN:
-    url: https://stamp.sudo.tv/stamp/$/ghost-of-tsushima/en-US.png
+    url: https://stamp.sudo.tv/stamp/$/ghost-of-tsushima-fans/en-US.png
   en-US:
-    url: https://stamp.sudo.tv/stamp/$/ghost-of-tsushima/en-US.png
+    url: https://stamp.sudo.tv/stamp/$/ghost-of-tsushima-fans/en-US.png
 localization:
   zh-CN:
     label: "对马岛之魂"
