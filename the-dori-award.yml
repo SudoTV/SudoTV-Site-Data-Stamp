@@ -1,0 +1,25 @@
+identifier: the-dori-award
+rarity: priceless
+release-date: 2022-02-07
+copyright:
+  icon-design: SudoTV
+methods:
+  - special
+icon:
+  zh-CN:
+    url: https://stamp.sudo.tv/stamp/$/the-dori-award/en-US.png
+  en-US:
+    url: https://stamp.sudo.tv/stamp/$/the-dori-award/en-US.png
+localization:
+  zh-CN:
+    label: "The Dori Award"
+    description: |-
+      赋予应得者
+    how-to-get: |-
+      Dori Award 赋予应得者
+  en-US:
+    label: "The Dori Award"
+    description: |-
+      Award to the worthy
+    how-to-get: |-
+      Dori Award Award to the worthy

@@ -1,0 +1,25 @@
+identifier: the-sushi-award
+rarity: priceless
+release-date: 2022-02-07
+copyright:
+  icon-design: SudoTV
+methods:
+  - special
+icon:
+  zh-CN:
+    url: https://stamp.sudo.tv/stamp/$/the-sushi-award/en-US.png
+  en-US:
+    url: https://stamp.sudo.tv/stamp/$/the-sushi-award/en-US.png
+localization:
+  zh-CN:
+    label: "The Sushi Award"
+    description: |-
+      赋予应得者
+    how-to-get: |-
+      Sushi Award 赋予应得者
+  en-US:
+    label: "The Sushi Award"
+    description: |-
+      Award to the worthy
+    how-to-get: |-
+      Sushi Award Award to the worthy
