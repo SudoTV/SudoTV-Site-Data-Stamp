@@ -1,0 +1,25 @@
+identifier: welcome-to-sudotv
+rarity: worthy
+release-date: 2022-02-07
+copyright:
+  icon-design: SudoTV
+methods:
+  - auto
+icon:
+  zh-CN:
+    url: https://stamp.sudo.tv/stamp/$/welcome-to-sudotv/en-US.png
+  en-US:
+    url: https://stamp.sudo.tv/stamp/$/welcome-to-sudotv/en-US.png
+localization:
+  zh-CN:
+    label: "欢迎来到 SudoTV"
+    description: |-
+      欢迎来到 SudoTV
+    how-to-get: |-
+      填写 `欢迎来到 SudoTV` 问卷自动获得
+  en-US:
+    label: "Welcome to SudoTV"
+    description: |-
+      Welcome to SudoTV
+    how-to-get: |-
+      Fill in the `Welcome to SudoTV` questionnaire to acquire
