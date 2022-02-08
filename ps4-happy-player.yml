@@ -1,0 +1,26 @@
+identifier: ps4-happy-player
+rarity: uncommon
+release-date: 2022-02-07
+copyright:
+  icon-design: SudoTV
+methods:
+  - email
+  - pull-request
+icon:
+  zh-CN:
+    url: https://stamp.sudo.tv/stamp/$/ps4-happy-player/en-US.png
+  en-US:
+    url: https://stamp.sudo.tv/stamp/$/ps4-happy-player/en-US.png
+localization:
+  zh-CN:
+    label: "PS4 开心果"
+    description: |-
+      奖励给被 PS4 取悦的玩家
+    how-to-get: |-
+      发送拉取请求或者邮件获得
+  en-US:
+    label: "PS4 Happy Player"
+    description: |-
+      Award to players who enjoy PS4
+    how-to-get: |-
+      Send pull-request or email to acquire
