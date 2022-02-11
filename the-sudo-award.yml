@@ -1,0 +1,25 @@
+identifier: the-sudo-award
+rarity: priceless
+release-date: 2022-02-10
+copyright:
+  icon-design: SudoTV
+methods:
+  - special
+icon:
+  zh-CN:
+    url: https://stamp.sudo.tv/stamp/$/the-sudo-award/en-US.png
+  en-US:
+    url: https://stamp.sudo.tv/stamp/$/the-sudo-award/en-US.png
+localization:
+  zh-CN:
+    label: "The SUDO Award"
+    description: |-
+      赋予应得者
+    how-to-get: |-
+      SUDO Award 赋予应得者
+  en-US:
+    label: "The SUDO Award"
+    description: |-
+      Award to the worthy
+    how-to-get: |-
+      SUDO Award Award to the worthy
