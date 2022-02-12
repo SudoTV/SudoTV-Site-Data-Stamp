@@ -1,0 +1,26 @@
+identifier: xbox-series-s-happy-player
+rarity: uncommon
+release-date: 2022-02-11
+copyright:
+  icon-design: SudoTV
+methods:
+  - email
+  - pull-request
+icon:
+  zh-CN:
+    url: https://stamp.sudo.tv/stamp/$/xbox-series-s-happy-player/en-US.png
+  en-US:
+    url: https://stamp.sudo.tv/stamp/$/xbox-series-s-happy-player/en-US.png
+localization:
+  zh-CN:
+    label: "Xbox Series S 开心果"
+    description: |-
+      奖励给被 Xbox Series S 取悦的玩家
+    how-to-get: |-
+      发送拉取请求或者邮件获得
+  en-US:
+    label: "Xbox Series S Happy Player"
+    description: |-
+      Award to players who enjoy Xbox Series S
+    how-to-get: |-
+      Send pull-request or email to acquire
