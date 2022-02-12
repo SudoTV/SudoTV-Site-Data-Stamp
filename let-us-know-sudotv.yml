@@ -1,0 +1,25 @@
+identifier: let-us-know-sudotv
+rarity: worthy
+release-date: 2022-02-11
+copyright:
+  icon-design: SudoTV
+methods:
+  - auto
+icon:
+  zh-CN:
+    url: https://stamp.sudo.tv/stamp/$/let-us-know-sudotv/en-US.png
+  en-US:
+    url: https://stamp.sudo.tv/stamp/$/let-us-know-sudotv/en-US.png
+localization:
+  zh-CN:
+    label: "让我们知道"
+    description: |-
+      奖励给为 SudoTV 项目提出建议和问题的人
+    how-to-get: |-
+      满足要求时自动获取
+  en-US:
+    label: "Let us know"
+    description: |-
+      Reward to those who suggest and ask for help on SudoTV project
+    how-to-get: |-
+      Get automatically if meet the requirements
