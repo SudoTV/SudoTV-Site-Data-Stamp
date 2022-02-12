@@ -1,0 +1,26 @@
+identifier: i-love-go-lang
+rarity: uncommon
+release-date: 2022-02-11
+copyright:
+  icon-design: SudoTV
+methods:
+  - email
+  - pull-request
+icon:
+  zh-CN:
+    url: https://stamp.sudo.tv/stamp/$/i-love-go-lang/en-US.png
+  en-US:
+    url: https://stamp.sudo.tv/stamp/$/i-love-go-lang/en-US.png
+localization:
+  zh-CN:
+    label: "I Love Go Lang"
+    description: |-
+      Go 语言是一门面向对象的编程语言，它的目标是提供一种简单、易用、高效的编程语言。
+    how-to-get: |-
+      发送邮件或者拉取请求以获得
+  en-US:
+    label: "I Love Go Lang"
+    description: |-
+      Go Lang is a programming language designed to be easy to use and to be efficient.
+    how-to-get: |-
+      Send email or pull request to get
